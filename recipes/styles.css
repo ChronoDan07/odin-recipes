@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: "MS Gothic", Helvetica, sans-serif;
+}
+
+.image{
+    height: auto;
+    width: 600px;
+
+}
+
+.aligner{
+    text-align: left;
+
+}
+
+.ingred{
+    background-color: beige;
+}
+
+.title{
+    background-color: brown;
+
+}
+
+
+
